@@ -139,3 +139,8 @@ To enhance this application further, consider adding features like:
 - Analytics dashboard for email performance
 - Subscription management and unsubscribe handling
 
+## Template 
+
+<img width="1474" alt="Screenshot 2024-09-01 at 7 14 35 PM" src="https://github.com/user-attachments/assets/c40c7a0c-74ae-4c15-8735-1c5e6be73e77">
+
+
