@@ -15,8 +15,8 @@ This repository contains the code and documentation for implementing an automate
 6. [Testing](#testing)
 7. [Monitoring and Alerting](#monitoring-and-alerting)
 8. [Security Considerations](#security-considerations)
-9. [Contributing](#contributing)
-10. [License](#license)
+9. [Conclusion](#conclusion)
+
 
 ## Architecture Overview
 
